@@ -1,0 +1,7 @@
+{
+    "name": "peakflow-api",
+    "private": true,
+    "scripts": {
+        "build": "echo 'No build step'"
+    }
+}
